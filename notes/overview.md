@@ -1,0 +1,4 @@
+- chapter 1-3. fundamentals of probability theory 
+- chapter 4-6. advanced topics 
+- chapter 5-6. introduction to Bermnoulli, Poisson, Markov processes 
+- statistics: there's only the basic elements of Bayesian statistics 
