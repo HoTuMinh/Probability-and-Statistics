@@ -121,6 +121,12 @@ $\rightarrow$ Overall, probability is used when discussing an **uncertain** situ
 
 ### Conditional Probability 
 
+- _provides us a way to reason about the outcome of an experiment, based on **partial information**_
+- Given an experiemnt, a sample space, a probability law. Suppose that we know that the outcome is within some given event $B%. We wish to quantify that the outcome also belongs to some other given event $A$. We construct a new probability law that takes into account the available knowledge: a probability law that for any event $A$, specifies the **conditional probability** of $A$ given $B$, denoted by $P(A|B)$
+- conditional probabilities can also be viewed as a probability law on a new universe $B$
+- the **definition of conditional probability**: P(A \mid B) = \frac{P(A \cap B)}{P(B)}; assume that $P(B) > 0$
+- _I recommend_
+
 ### Total Probability Theorem and Bayes' Rule 
 
 ### Independence 
